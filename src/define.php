@@ -23,6 +23,7 @@ define('DT_AT', 'at');
 
 define('LANG_EN', 'en');
 define('LANG_CN', 'zh-CN');
+define('LANG_TW', 'zh-TW');
 define('LANG_JA', 'ja');
 define('LANG_AUTO', 'auto');
 define('LANG_SQ', 'sq');
